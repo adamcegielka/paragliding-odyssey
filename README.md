@@ -1,5 +1,7 @@
 # Paragliding Odyssey: My Adventures in Paragliding
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a5f3362-a6d4-4433-a15d-554b66641b3c/deploy-status)](https://app.netlify.com/sites/paralotnie/deploys)
+
 
 Welcome to the "Paragliding Odyssey" website! This site is dedicated to my passion for paragliding and my experiences in flying competitions.
 
