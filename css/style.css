@@ -59,9 +59,10 @@ h1::before {
 .copyrightSection {
     background-color: #111;
     color: #fff;
-    padding: 30px 5px;
+    padding: 25px 5px;
 }
 
 .copyrightSection p {
     margin: 0;
+    font-size: 12px;
 }
