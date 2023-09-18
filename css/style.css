@@ -55,3 +55,13 @@ h1::before {
 .photo-gallery figcaption {
     margin-top: 8px;
 }
+
+.copyrightSection {
+    background-color: #111;
+    color: #fff;
+    padding: 30px 5px;
+}
+
+.copyrightSection p {
+    margin: 0;
+}
