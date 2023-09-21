@@ -66,3 +66,17 @@ h1::before {
     margin: 0;
     font-size: 12px;
 }
+
+.carousel-item {
+    height: 32rem;
+    background: #777;
+    position: relative;
+}
+
+.container-carousel {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-bottom: 50px;
+}
